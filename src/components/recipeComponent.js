@@ -43,7 +43,7 @@ const SeeMoreText = styled(IngredientText)`
   color:#eb3300;
   border: solid 1px #eb3300;
 `
-
+/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
 export default{
   SeeMoreText,
   IngredientText,
